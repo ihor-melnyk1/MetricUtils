@@ -1,0 +1,42 @@
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/bin/Debug/net8.0/MetricUtils
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/bin/Debug/net8.0/MetricUtils.deps.json
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/bin/Debug/net8.0/MetricUtils.runtimeconfig.json
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/bin/Debug/net8.0/MetricUtils.dll
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/bin/Debug/net8.0/MetricUtils.pdb
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.GeneratedMSBuildEditorConfig.editorconfig
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.AssemblyInfoInputs.cache
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.AssemblyInfo.cs
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.csproj.CoreCompileInputs.cache
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.dll
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/refint/MetricUtils.dll
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.pdb
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/MetricUtils.genruntimeconfig.cache
+/home/whigra/RiderProjects/MetricUtils/MetricUtils/obj/Debug/net8.0/ref/MetricUtils.dll
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.exe
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.deps.json
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.runtimeconfig.json
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.dll
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.pdb
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.AssemblyInfoInputs.cache
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.AssemblyInfo.cs
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.csproj.CoreCompileInputs.cache
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.dll
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\refint\MetricUtils.dll
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.pdb
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.genruntimeconfig.cache
+C:\Users\igorm\Downloads\Telegram Desktop\MetricUtils\MetricUtils\MetricUtils\obj\Debug\net8.0\ref\MetricUtils.dll
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.exe
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.deps.json
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.runtimeconfig.json
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.dll
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\bin\Debug\net8.0\MetricUtils.pdb
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.AssemblyInfoInputs.cache
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.AssemblyInfo.cs
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.csproj.CoreCompileInputs.cache
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.dll
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\refint\MetricUtils.dll
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.pdb
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\MetricUtils.genruntimeconfig.cache
+C:\Users\igorm\Documents\MetricUtils\MetricUtils\obj\Debug\net8.0\ref\MetricUtils.dll
